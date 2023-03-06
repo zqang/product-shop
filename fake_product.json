@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "name": "Hilsha fish",
+      "description": "Ilish Mach aka",
+      "price": 12,
+      "stars": 5,
+      "img": "images/12321",
+      "location": "china",
+      "created_at": "2021-12-21 06:23:21",
+      "updated_at": "2022-01-01 04:12:21",
+      "type_id": 2
+    },
+    {
+      "id": 12,
+      "name": "Salmon fish",
+      "description": "Atlantic Salmon",
+      "price": 14,
+      "stars": 4,
+      "img": "images/23456",
+      "location": "Norway",
+      "created_at": "2022-02-14 09:34:12",
+      "updated_at": "2022-03-02 15:21:43",
+      "type_id": 2
+    },
+    {
+      "id": 13,
+      "name": "Tuna fish",
+      "description": "Yellowfin Tuna",
+      "price": 10,
+      "stars": 3,
+      "img": "images/34567",
+      "location": "Japan",
+      "created_at": "2022-01-10 18:45:32",
+      "updated_at": "2022-02-01 10:23:11",
+      "type_id": 2
+    },
+    {
+      "id": 14,
+      "name": "Trout fish",
+      "description": "Rainbow Trout",
+      "price": 8,
+      "stars": 4,
+      "img": "images/45678",
+      "location": "USA",
+      "created_at": "2022-03-02 14:56:01",
+      "updated_at": "2022-03-04 08:12:23",
+      "type_id": 2
+    },
+    {
+      "id": 15,
+      "name": "Cod fish",
+      "description": "Atlantic Cod",
+      "price": 16,
+      "stars": 5,
+      "img": "images/56789",
+      "location": "Norway",
+      "created_at": "2022-02-21 12:45:32",
+      "updated_at": "2022-03-05 09:34:21",
+      "type_id": 2
+    },
+    {
+      "id": 16,
+      "name": "Mackerel fish",
+      "description": "Atlantic Mackerel",
+      "price": 9,
+      "stars": 3,
+      "img": "images/67890",
+      "location": "Spain",
+      "created_at": "2022-01-15 17:23:43",
+      "updated_at": "2022-02-05 12:11:09",
+      "type_id": 2
+    },
+    {
+      "id": 17,
+      "name": "Sardine fish",
+      "description": "European Sardine",
+      "price": 6,
+      "stars": 2,
+      "img": "images/78901",
+      "location": "Portugal",
+      "created_at": "2022-02-28 08:45:12",
+      "updated_at": "2022-03-03 14:32:56",
+	    "type_id": 2
+    },
+    {
+    "id": 18,
+    "name": "Barramundi fish",
+    "description": "Asian Seabass",
+    "price": 13,
+    "stars": 4,
+    "img": "images/89012",
+    "location": "Australia",
+    "created_at": "2022-01-20 13:56:21",
+    "updated_at": "2022-02-18 11:09:32",
+    "type_id": 2
+    },
+    {
+    "id": 19,
+    "name": "Grouper fish",
+    "description": "Red Grouper",
+    "price": 15,
+    "stars": 3,
+    "img": "images/90123",
+    "location": "Indonesia",
+    "created_at": "2022-02-10 16:23:01",
+    "updated_at": "2022-03-01 09:45:32",
+    "type_id": 2
+    },
+    {
+    "id": 20,
+    "name": "Mullet fish",
+    "description": "Striped Mullet",
+    "price": 7,
+    "stars": 2,
+    "img": "images/01234",
+    "location": "Turkey",
+    "created_at": "2022-01-05 10:45:32",
+    "updated_at": "2022-02-02 14:23:01",
+    "type_id": 2
+    }
+  ]
+}
